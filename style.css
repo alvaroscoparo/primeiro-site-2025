@@ -4,3 +4,17 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-bottom: 100px;
 }
+
+header{
+  border-bottom: solid 2px rgb(27, 26, 26);  
+  padding: 20px;
+  font-size: 30px;
+  color: black;
+}
+
+section{
+    background-color: rgb(127, 236, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+}
